@@ -12,7 +12,7 @@
 ![Streamlit badge](https://img.shields.io/static/v1?label=Streamlit&message=basics&color=brightgreen&logo=streamlit)
 ![Django badge](https://img.shields.io/static/v1?label=Django&message=basics&color=brightgreen&logo=django)
 
-- 👋 Hi, I’m @martinbremm
-- 👀 I’m a cognitive neuroscientist student and am gaining research-related programming experiences
+- 👋 Hi, I’m Martin
+- 👀 I’m a data engineer, based in Cologne
 - 🌱 I’m comfortable in Python, Git and MatLab
-- 💞️ I’m looking to collaborate on research projects in the field of computational neuroscience or data science
+- 💞️ I’m looking to contribute to open source data science projects
