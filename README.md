@@ -13,6 +13,6 @@
 ![Django badge](https://img.shields.io/static/v1?label=Django&message=basics&color=brightgreen&logo=django)
 
 - 👋 Hi, I’m Martin
-- 👀 I’m a data engineer, based in Cologne
+- 👀 I’m a data analyst, based in Cologne
 - 🌱 I’m comfortable in Python, Git and MatLab
 - 💞️ I’m looking to contribute to open source data science projects
