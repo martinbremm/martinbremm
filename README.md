@@ -13,7 +13,8 @@
 ![Django badge](https://img.shields.io/static/v1?label=Django&message=basics&color=brightgreen&logo=django)
 
 - 👋 Hi, I’m Martin
-- 👀 I’m a data analyst, based in Cologne
-- 🌱 I’m comfortable in Python, Git and MatLab
-- 💞️ I’m looking to contribute to open source data science projects
-- 📫 How to reach me: m.bremm@promarin.de
+- 👀 I’m a data consultant, based in Cologne
+- 🌱 Comfortable in Python and Rust
+- 💞️ I’m looking to contribute to open-source data science projects
+- 🎲 Magic: The Gathering enthusiast
+- 📫 How to reach me: martinbremm@web.de
