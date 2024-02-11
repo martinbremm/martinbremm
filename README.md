@@ -4,7 +4,8 @@
 
 ![Python badge](https://img.shields.io/static/v1?label=Python&message=advanced&color=brightgreen&logo=python)
 ![Git badge](https://img.shields.io/static/v1?label=Git&message=advanced&color=brightgreen&logo=git)
-![MatLab badge](https://img.shields.io/static/v1?label=MatLab&message=advanced&color=brightgreen&logo=matlab)
+![Rust badge](https://img.shields.io/static/v1?label=Rust&message=basics&color=brightgreen&logo=rust)
+[comment]: #![MatLab badge](https://img.shields.io/static/v1?label=MatLab&message=advanced&color=brightgreen&logo=matlab)
 ![SQL badge](https://img.shields.io/static/v1?label=SQL&message=basics&color=brightgreen&logo=sqlite)
 ![Latex badge](https://img.shields.io/static/v1?label=LaTeX&message=basics&color=brightgreen&logo=latex)
 ![Tensorflow badge](https://img.shields.io/static/v1?label=TensorFlow&message=basics&color=brightgreen&logo=tensorflow)
