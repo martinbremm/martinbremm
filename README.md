@@ -18,4 +18,3 @@
 - 🌱 Comfortable in Python and Rust
 - 💞️ I’m looking to contribute to open-source data science projects
 - 🎲 Magic: The Gathering enthusiast
-- 📫 How to reach me: martinbremm@web.de
