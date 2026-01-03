@@ -8,10 +8,12 @@
 ![Rust badge](https://img.shields.io/static/v1?label=Rust&message=basics&color=brightgreen&logo=rust)
 ![SQL badge](https://img.shields.io/static/v1?label=SQL&message=basics&color=brightgreen&logo=sqlite)
 ![Latex badge](https://img.shields.io/static/v1?label=LaTeX&message=basics&color=brightgreen&logo=latex)
+
+![FastAPI badge](https://img.shields.io/static/v1?label=FastAPI&message=advanced&color=brightgreen&logo=fastapi)
 ![Tensorflow badge](https://img.shields.io/static/v1?label=TensorFlow&message=basics&color=brightgreen&logo=tensorflow)
 ![Folium badge](https://img.shields.io/static/v1?label=Folium&message=basics&color=brightgreen&logo=folium)
 ![Streamlit badge](https://img.shields.io/static/v1?label=Streamlit&message=basics&color=brightgreen&logo=streamlit)
-![Django badge](https://img.shields.io/static/v1?label=Django&message=basics&color=brightgreen&logo=django)
+
 
 - 👋 Hi, I’m Martin
 - 👀 I’m a data consultant, based in Cologne
